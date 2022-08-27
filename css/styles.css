@@ -283,10 +283,10 @@ nav {
   display: inline-flex;
   flex-direction: column;
   padding-bottom: 20px;
-  /* padding-right: 24px;
+}
+/* padding-right: 24px;
   padding-bottom: 20px;
   padding-left: 24px; */
-}
 
 .section-team-foto {
   margin-top: 0;
