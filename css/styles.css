@@ -282,7 +282,12 @@ nav {
 .team-working {
   display: inline-flex;
   flex-direction: column;
+  padding-bottom: 20px;
+  /* padding-right: 24px;
+  padding-bottom: 20px;
+  padding-left: 24px; */
 }
+
 .section-team-foto {
   margin-top: 0;
   margin-bottom: 30px;
@@ -296,7 +301,6 @@ nav {
   color: var(--color-text);
 }
 .section-team-profession {
-  margin-bottom: 30px;
   font-size: 16px;
   line-height: 1.18;
   letter-spacing: 0.03em;
